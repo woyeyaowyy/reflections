@@ -1,0 +1,13 @@
+diff -u old new
+
+----does not exist in new 
++++does not exist in old
+
+easy to find out the differences between all this old files
+
+pros   逻辑提交易于理解
+cons   提交间隔不容易控制，容易发生人为疏忽
+
+ 无论造成什么后果，都可以使用git回到以前版本，
+
+ 保存我的工作
